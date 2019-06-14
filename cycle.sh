@@ -2,7 +2,6 @@
 
 for filename in frames/*.txt;
 do
-    echo $filename
     cat $filename
 done
 
