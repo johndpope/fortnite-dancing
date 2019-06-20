@@ -8,4 +8,4 @@ BUT! Then I remembered about parrot.live and parrot-terminal and figured I would
 
 # Big Thanks
 
-Terminal thanks to termbox-go(https://www.github.com/nsf/termbox-go)
+Terminal thanks to termbox-go [https://www.github.com/nsf/termbox-go]
